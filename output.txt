@@ -1,0 +1,13 @@
+Python 3.10.2 (tags/v3.10.2:a58ebcc, Jan 17 2022, 14:12:15) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+
+===== RESTART: Z:\Password-Generator-in-python-master\Password Generator.py ====
+How many passwords do you want to generate? 3
+Generating 3 passwords
+Minimum length of password should be 3
+Enter the length of Password #1 10
+Enter the length of Password #2 12
+Enter the length of Password #3 15
+Password #1 = wxdw6Xhqwr
+Password #2 = zj2eolzuhfBp
+Password #3 = o4lvvissslywvxG
